@@ -1,6 +1,6 @@
-# ReactConceptsPage
+# ReactCoreConceptsPage
 
-![ReactConceptsPage](Assets/ReactConceptsPage.png)
+![ReactCoreConceptsPage](Assets/ReactCoreConceptsPage.png)
 
 # ReactInvestmentCalculator
 
